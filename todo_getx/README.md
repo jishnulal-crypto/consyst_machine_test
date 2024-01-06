@@ -6,6 +6,14 @@ A todo app using Getx package for routing and state manager.
 
 how to run the project ?
 
+
+about
+
+used getx as the statemanagement 
+it communicates the application in api's to controllers to views thats how it renders the ui and api
+
+how to run the project
+
 1
  flutter clean 
  flutter pub get
