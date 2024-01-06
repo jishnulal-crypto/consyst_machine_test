@@ -47,7 +47,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:242186607519:android:fd2378f2cbb4f0ee9bbbaa",
         "android_client_info": {
-          "package_name": "com.loicngou.todo_app_getx"
+          "package_name": "com.jishnu.todoapp"
         }
       },
       "oauth_client": [
@@ -55,7 +55,7 @@
           "client_id": "242186607519-int118t4937904f85hjqe7t214v8lf49.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.loicngou.todo_app_getx",
+            "package_name": "com.jishnu.todoapp",
             "certificate_hash": "7f19df5b69745b1b1329f2ec62433282bfa1992b"
           }
         },
