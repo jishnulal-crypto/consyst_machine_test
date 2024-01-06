@@ -1,10 +1,9 @@
-# todo_app_getx
+# todoapp
 
 A todo app using Getx package for routing and state manager.
 
 ## Demo
 
-![Todo with GetX Demo](./gifs/demo.gif)
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
