@@ -4,6 +4,16 @@ A todo app using Getx package for routing and state manager.
 
 ## Demo
 
+how to run the project ?
+
+1
+ flutter clean 
+ flutter pub get
+2 
+  run or debug the project in web or emulator or real device
+
+  you are done you can start viewing the app
+
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
